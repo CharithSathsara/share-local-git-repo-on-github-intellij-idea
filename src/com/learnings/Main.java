@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Charith Sathsara");
         System.out.println("Computer Science");
 
+        System.out.println("Practice pushing changes to github");
 
     }
 }
