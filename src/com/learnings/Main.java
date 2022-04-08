@@ -7,5 +7,9 @@ public class Main {
         System.out.println("We want to create local Git Repo For IntelliJ IDEA Project");
         System.out.println("Then we save the progress each step of the way...");
 
+        System.out.println("Charith Sathsara");
+        System.out.println("Computer Science");
+
+
     }
 }
