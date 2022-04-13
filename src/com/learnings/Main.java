@@ -12,12 +12,5 @@ public class Main {
 
         System.out.println("Practice pushing changes to github");
 
-        System.out.println("Practice pushing changes to github");
-
     }
-
-    public void print(){
-        System.out.println("My Print Function");
-    }
-
 }
