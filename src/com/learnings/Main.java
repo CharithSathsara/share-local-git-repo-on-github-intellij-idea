@@ -12,5 +12,12 @@ public class Main {
 
         System.out.println("Practice pushing changes to github");
 
+        System.out.println("Fixing the bug");
+
+        System.out.println("Fixing the bug 2 ");
+        System.out.println("Fixing the bug 3 ");
+
+
+
     }
 }
